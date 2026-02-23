@@ -9,7 +9,7 @@
   </a>
 
   <!-- Profile Views & Socials -->
-  <br/>
+  <br/><br/><br/>
   
   [![Profile Views](https://komarev.com/ghpvc/?username=Nithin-Adithya&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS)](https://github.com/Nithin-Adithya)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nithinadithya)
