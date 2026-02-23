@@ -31,6 +31,35 @@
 
 ---
 
+## 📊 &nbsp;GitHub Analytics
+
+<div align="center">
+  
+  <img width="600" src="https://streak-stats.demolab.com/?user=Nithin-Adithya&theme=tokyonight&hide_border=true&border_radius=12&background=1A1B27&ring=6C63FF&fire=FF6C63&currStreakLabel=6C63FF" alt="GitHub Streak" />
+
+  <br/><br/>
+
+  <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Nithin-Adithya&theme=tokyo-night&hide_border=true&radius=12&bg_color=1A1B27&color=6C63FF&line=6C63FF&point=FFFFFF" alt="Activity Graph" />
+
+</div>
+
+---
+
+## 🚀 &nbsp;Featured Projects
+
+<div align="center">
+
+| 🖥️ | Project | Description | Tech |
+|---|---|---|---|
+| 🎭 | [**Mini OS Simulator**](https://github.com/Nithin-Adithya/Mini-OS-Simulator) | Interactive web-based OS simulator with process scheduling, memory management & file systems | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| 🏛️ | [**HJSS Booking System**](https://github.com/Nithin-Adithya/HJSS-Booking-system) | Full-stack convention hall booking with real-time calendar, payments & email notifications | ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazonec2&logoColor=white) |
+| 🧠 | [**Therapy AI**](https://github.com/Nithin-Adithya/therapy-ai) | Your free AI therapist — intelligent conversational mental health companion | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| 🌐 | [**Portfolio Website**](https://github.com/Nithin-Adithya/Nithin-Portfolio) | Modern portfolio with smooth animations, custom cursor & 3D elements | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white) |
+
+</div>
+
+---
+
 ## 🛠️ &nbsp;Tech Stack
 
 <div align="center">
@@ -61,35 +90,6 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-
-</div>
-
----
-
-## 🚀 &nbsp;Featured Projects
-
-<div align="center">
-
-| 🖥️ | Project | Description | Tech |
-|---|---|---|---|
-| 🎭 | [**Mini OS Simulator**](https://github.com/Nithin-Adithya/Mini-OS-Simulator) | Interactive web-based OS simulator with process scheduling, memory management & file systems | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| 🏛️ | [**HJSS Booking System**](https://github.com/Nithin-Adithya/HJSS-Booking-system) | Full-stack convention hall booking with real-time calendar, payments & email notifications | ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazonec2&logoColor=white) |
-| 🧠 | [**Therapy AI**](https://github.com/Nithin-Adithya/therapy-ai) | Your free AI therapist — intelligent conversational mental health companion | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| 🌐 | [**Portfolio Website**](https://github.com/Nithin-Adithya/Nithin-Portfolio) | Modern portfolio with smooth animations, custom cursor & 3D elements | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white) |
-
-</div>
-
----
-
-## 📊 &nbsp;GitHub Analytics
-
-<div align="center">
-  
-  <img width="600" src="https://streak-stats.demolab.com/?user=Nithin-Adithya&theme=tokyonight&hide_border=true&border_radius=12&background=1A1B27&ring=6C63FF&fire=FF6C63&currStreakLabel=6C63FF" alt="GitHub Streak" />
-
-  <br/><br/>
-
-  <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Nithin-Adithya&theme=tokyo-night&hide_border=true&radius=12&bg_color=1A1B27&color=6C63FF&line=6C63FF&point=FFFFFF" alt="Activity Graph" />
 
 </div>
 
