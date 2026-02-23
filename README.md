@@ -73,21 +73,12 @@
 
 <div align="center">
 
-<a href="https://github.com/Nithin-Adithya/Mini-OS-Simulator">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Nithin-Adithya&repo=Mini-OS-Simulator&theme=tokyonight&hide_border=true&border_radius=12" />
-</a>
-&nbsp;
-<a href="https://github.com/Nithin-Adithya/HJSS-Booking-system">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Nithin-Adithya&repo=HJSS-Booking-system&theme=tokyonight&hide_border=true&border_radius=12" />
-</a>
-<br/><br/>
-<a href="https://github.com/Nithin-Adithya/therapy-ai">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Nithin-Adithya&repo=therapy-ai&theme=tokyonight&hide_border=true&border_radius=12" />
-</a>
-&nbsp;
-<a href="https://github.com/Nithin-Adithya/Nithin-Portfolio">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Nithin-Adithya&repo=Nithin-Portfolio&theme=tokyonight&hide_border=true&border_radius=12" />
-</a>
+| 🖥️ | Project | Description | Tech |
+|---|---|---|---|
+| 🎭 | [**Mini OS Simulator**](https://github.com/Nithin-Adithya/Mini-OS-Simulator) | Interactive web-based OS simulator with process scheduling, memory management & file systems | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| 🏛️ | [**HJSS Booking System**](https://github.com/Nithin-Adithya/HJSS-Booking-system) | Full-stack convention hall booking with real-time calendar, payments & email notifications | ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazonec2&logoColor=white) |
+| 🧠 | [**Therapy AI**](https://github.com/Nithin-Adithya/therapy-ai) | Your free AI therapist — intelligent conversational mental health companion | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| 🌐 | [**Portfolio Website**](https://github.com/Nithin-Adithya/Nithin-Portfolio) | Modern portfolio with smooth animations, custom cursor & 3D elements | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white) |
 
 </div>
 
@@ -97,23 +88,11 @@
 
 <div align="center">
   
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Nithin-Adithya&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true&bg_color=1A1B27" alt="GitHub Stats" />
-  &nbsp;
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nithin-Adithya&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&bg_color=1A1B27&langs_count=8" alt="Top Languages" />
+  <img width="600" src="https://streak-stats.demolab.com/?user=Nithin-Adithya&theme=tokyonight&hide_border=true&border_radius=12&background=1A1B27&ring=6C63FF&fire=FF6C63&currStreakLabel=6C63FF" alt="GitHub Streak" />
 
   <br/><br/>
 
-  <img width="600" src="https://github-readme-streak-stats.herokuapp.com/?user=Nithin-Adithya&theme=tokyonight&hide_border=true&border_radius=12&background=1A1B27&ring=6C63FF&fire=FF6C63&currStreakLabel=6C63FF" alt="GitHub Streak" />
-
-</div>
-
----
-
-## 🏆 &nbsp;GitHub Trophies
-
-<div align="center">
-
-  ![Trophies](https://github-profile-trophy.vercel.app/?username=Nithin-Adithya&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10)
+  <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Nithin-Adithya&theme=tokyo-night&hide_border=true&radius=12&bg_color=1A1B27&color=6C63FF&line=6C63FF&point=FFFFFF" alt="Activity Graph" />
 
 </div>
 
