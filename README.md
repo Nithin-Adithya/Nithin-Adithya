@@ -8,9 +8,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=45&lines=Building+intelligent+web+applications+%F0%9F%9A%80;Turning+data+into+actionable+insights+%F0%9F%93%8A;Always+learning%2C+always+shipping+%E2%9C%A8" alt="Typing SVG" />
   </a>
 
-  <!-- Profile Views & Socials -->
-  <br/><br/><br/>
-  
   [![Profile Views](https://komarev.com/ghpvc/?username=Nithin-Adithya&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS)](https://github.com/Nithin-Adithya)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nithinadithya)
   [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nithinadithyas5@gmail.com)
